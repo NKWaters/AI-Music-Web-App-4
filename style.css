@@ -1,0 +1,76 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 19px;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_PeterPan_img {
+    float: left;
+}
+
+#div_HarryPotter_img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-left: -1320px;
+}
+
+#HarryPotterbtn {
+   margin-right: 1320px;
+}
+
+
+
+#div_PeterPan_img {
+    width: 200px;
+    border-radius: 100px;
+    margin-top: -410px;
+    float: right;
+    margin-left: 25px;
+    height: 200px;
+}
+
+#PeterPanbtn {
+    margin-left: 1320px;
+    margin-top: -220px;
+}
+
+.play_button {
+    width: 130px;
+    font-size: 23px;
+    margin-top: 70px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+#PeterPanSpeed {
+    margin-right: 1320px;
+    margin-top: -150px;
+}
+
+#HarryPotterSpeed {
+    margin-right: 1320px;
+    margin-top: -90px;
+
+}
+
+#HarryPotterVolume {
+    margin-left: 1320px;
+    margin-bottom: 50px;
+}
+
+#PeterPanVolume {
+    margin-left: 1320px;
+}
